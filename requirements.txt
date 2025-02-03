@@ -1,12 +1,4 @@
 django
 python-dotenv
 requests
-accelerate>=0.26.0
-libsass
-django-compressor
-django-sass-processor
-django-libsass
-# torch
-# torchvision
-# transformers
-# llama-models
+scikit-learn
