@@ -1,5 +1,3 @@
-// this snippet is made for https://festivalviewer.com/tomorrowland/lineup/2024
-
 // class to contain artists' performances with name, stage, host, tmie, date, year weekday, weekend & genre
 class Artist {
     constructor(data) {
@@ -12,16 +10,19 @@ class Artist {
     }
 }
 
-// retrieve the table data
 let artists = []
-data = document.querySelectorAll("#table_id tr.even, #table_id tr.odd");
-header = document.querySelector("#table_id tr");
-// console.log(header.innerText);
 
-// parse the data
-for (let dat of data) {
-    artists.push(new Artist(dat));
+// retrieve the table data
+function retrieve() {
+    data = document.querySelectorAll("#table_id tr.even, #table_id tr.odd");
+    header = document.querySelector("#table_id tr");
+    // console.log(header.innerText);
+    
+    // parse the data
+    for (let dat of data) {
+        artists.push(new Artist(dat));
+    }
 }
 
 // log as JSON
-console.log(JSON.stringify(artists))
+console.log(JSON.stringify(artists));
