@@ -8,8 +8,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "13:30 ",
-        "time_end": " 14:15"
+        "time_start": "13:30",
+        "time_end": "14:15"
     },
     {
         "name": "Bosart",
@@ -20,8 +20,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "14:15 ",
-        "time_end": " 15:00"
+        "time_start": "14:15",
+        "time_end": "15:00"
     },
     {
         "name": "Dietro",
@@ -32,8 +32,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "15:00 ",
-        "time_end": " 15:45"
+        "time_start": "15:00",
+        "time_end": "15:45"
     },
     {
         "name": "Voltage",
@@ -44,8 +44,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "15:45 ",
-        "time_end": " 16:30"
+        "time_start": "15:45",
+        "time_end": "16:30"
     },
     {
         "name": "Elfigo",
@@ -56,8 +56,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "16:30 ",
-        "time_end": " 17:15"
+        "time_start": "16:30",
+        "time_end": "17:15"
     },
     {
         "name": ">rthur Lewis ft. Gerben Tuerlinckx",
@@ -68,8 +68,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "17:15 ",
-        "time_end": " 18:00"
+        "time_start": "17:15",
+        "time_end": "18:00"
     },
     {
         "name": "Nina Black",
@@ -80,8 +80,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "Techno",
-        "time_start": "18:00 ",
-        "time_end": " 18:45"
+        "time_start": "18:00",
+        "time_end": "18:45"
     },
     {
         "name": "Michael Amani",
@@ -92,8 +92,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "House, Techno",
-        "time_start": "18:45 ",
-        "time_end": " 19:30"
+        "time_start": "18:45",
+        "time_end": "19:30"
     },
     {
         "name": "The Oddword",
@@ -104,8 +104,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "19:30 ",
-        "time_end": " 20:15"
+        "time_start": "19:30",
+        "time_end": "20:15"
     },
     {
         "name": "Andromedik",
@@ -116,8 +116,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "Drum & Bass",
-        "time_start": "20:15 ",
-        "time_end": " 20:45"
+        "time_start": "20:15",
+        "time_end": "20:45"
     },
     {
         "name": "Mandy",
@@ -128,8 +128,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "Hard Dance",
-        "time_start": "20:45 ",
-        "time_end": " 21:15"
+        "time_start": "20:45",
+        "time_end": "21:15"
     },
     {
         "name": "Surprise",
@@ -140,8 +140,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "TBA",
-        "time_start": "21:15 ",
-        "time_end": " 22:00"
+        "time_start": "21:15",
+        "time_end": "22:00"
     },
     {
         "name": "Surprise",
@@ -152,8 +152,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "TBA",
-        "time_start": "22:00 ",
-        "time_end": " 22:45"
+        "time_start": "22:00",
+        "time_end": "22:45"
     },
     {
         "name": "Surprise",
@@ -164,8 +164,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "TBA",
-        "time_start": "22:45 ",
-        "time_end": " 23:30"
+        "time_start": "22:45",
+        "time_end": "23:30"
     },
     {
         "name": "Surprise",
@@ -176,8 +176,8 @@
         "weekday": "Thursday",
         "weekend": "Weekend 1",
         "genre": "TBA",
-        "time_start": "23:30 ",
-        "time_end": " 00:00"
+        "time_start": "23:30",
+        "time_end": "00:00"
     },
     {
         "name": "Unsyn",
@@ -188,8 +188,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "12:00 ",
-        "time_end": " 13:00"
+        "time_start": "12:00",
+        "time_end": "13:00"
     },
     {
         "name": "Rayzen",
@@ -200,8 +200,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Hardcore",
-        "time_start": "13:00 ",
-        "time_end": " 14:00"
+        "time_start": "13:00",
+        "time_end": "14:00"
     },
     {
         "name": "K1 & Aradia",
@@ -212,8 +212,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "14:00 ",
-        "time_end": " 15:00"
+        "time_start": "14:00",
+        "time_end": "15:00"
     },
     {
         "name": "Hyperverb",
@@ -224,8 +224,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "15:00 ",
-        "time_end": " 16:00"
+        "time_start": "15:00",
+        "time_end": "16:00"
     },
     {
         "name": "Footworxx Militant Crew",
@@ -236,8 +236,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "16:00 ",
-        "time_end": " 17:00"
+        "time_start": "16:00",
+        "time_end": "17:00"
     },
     {
         "name": "Sakyra",
@@ -248,8 +248,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Hardcore",
-        "time_start": "17:00 ",
-        "time_end": " 18:00"
+        "time_start": "17:00",
+        "time_end": "18:00"
     },
     {
         "name": "HYSTA",
@@ -260,8 +260,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Hardcore",
-        "time_start": "18:00 ",
-        "time_end": " 19:00"
+        "time_start": "18:00",
+        "time_end": "19:00"
     },
     {
         "name": "Vandal",
@@ -272,8 +272,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "19:00 ",
-        "time_end": " 20:00"
+        "time_start": "19:00",
+        "time_end": "20:00"
     },
     {
         "name": "Billx",
@@ -284,8 +284,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Commercial Dance, Electronica",
-        "time_start": "20:00 ",
-        "time_end": " 21:00"
+        "time_start": "20:00",
+        "time_end": "21:00"
     },
     {
         "name": "Reflexx",
@@ -296,8 +296,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "21:00 ",
-        "time_end": " 22:00"
+        "time_start": "21:00",
+        "time_end": "22:00"
     },
     {
         "name": "Unicorn on K",
@@ -308,8 +308,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "22:00 ",
-        "time_end": " 23:00"
+        "time_start": "22:00",
+        "time_end": "23:00"
     },
     {
         "name": "Juwlz",
@@ -320,8 +320,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "12:00 ",
-        "time_end": " 14:00"
+        "time_start": "12:00",
+        "time_end": "14:00"
     },
     {
         "name": "Maxim Lany",
@@ -332,8 +332,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "House, Deep House",
-        "time_start": "14:00 ",
-        "time_end": " 16:00"
+        "time_start": "14:00",
+        "time_end": "16:00"
     },
     {
         "name": "Rose Ringed",
@@ -344,8 +344,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "16:00 ",
-        "time_end": " 17:30"
+        "time_start": "16:00",
+        "time_end": "17:30"
     },
     {
         "name": "Agents Of Time (Live)",
@@ -356,8 +356,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Techno",
-        "time_start": "17:30 ",
-        "time_end": " 19:00"
+        "time_start": "17:30",
+        "time_end": "19:00"
     },
     {
         "name": "Mau P",
@@ -368,8 +368,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Hip-Hop, Rap",
-        "time_start": "19:00 ",
-        "time_end": " 20:30"
+        "time_start": "19:00",
+        "time_end": "20:30"
     },
     {
         "name": "Mathame",
@@ -380,8 +380,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Techno",
-        "time_start": "20:30 ",
-        "time_end": " 22:00"
+        "time_start": "20:30",
+        "time_end": "22:00"
     },
     {
         "name": "Don Diablo",
@@ -392,8 +392,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Progressive House",
-        "time_start": "22:00 ",
-        "time_end": " 23:30"
+        "time_start": "22:00",
+        "time_end": "23:30"
     },
     {
         "name": "Hardwell",
@@ -404,8 +404,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Electro House, Progressive House",
-        "time_start": "23:30 ",
-        "time_end": " 00:30"
+        "time_start": "23:30",
+        "time_end": "00:30"
     },
     {
         "name": "Hawkeyes",
@@ -416,8 +416,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "13:00 ",
-        "time_end": " 14:00"
+        "time_start": "13:00",
+        "time_end": "14:00"
     },
     {
         "name": "Yamo",
@@ -428,8 +428,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Electronic, Experimental",
-        "time_start": "14:00 ",
-        "time_end": " 15:00"
+        "time_start": "14:00",
+        "time_end": "15:00"
     },
     {
         "name": "Dave Lambert",
@@ -440,8 +440,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Traditional House",
-        "time_start": "15:00 ",
-        "time_end": " 16:00"
+        "time_start": "15:00",
+        "time_end": "16:00"
     },
     {
         "name": "Makasi",
@@ -452,8 +452,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "House",
-        "time_start": "16:00 ",
-        "time_end": " 17:00"
+        "time_start": "16:00",
+        "time_end": "17:00"
     },
     {
         "name": "DJs From Mars",
@@ -464,8 +464,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Electro House, Progressive House",
-        "time_start": "17:00 ",
-        "time_end": " 18:00"
+        "time_start": "17:00",
+        "time_end": "18:00"
     },
     {
         "name": "Nicky Romero",
@@ -476,8 +476,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Progressive House",
-        "time_start": "18:00 ",
-        "time_end": " 19:00"
+        "time_start": "18:00",
+        "time_end": "19:00"
     },
     {
         "name": "Seth Hills",
@@ -488,8 +488,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "19:00 ",
-        "time_end": " 20:00"
+        "time_start": "19:00",
+        "time_end": "20:00"
     },
     {
         "name": "Chico Rose",
@@ -500,8 +500,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Future House",
-        "time_start": "20:00 ",
-        "time_end": " 21:00"
+        "time_start": "20:00",
+        "time_end": "21:00"
     },
     {
         "name": "Henri PFR",
@@ -512,8 +512,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Commercial Dance, Electronica, Traditional House",
-        "time_start": "21:00 ",
-        "time_end": " 22:00"
+        "time_start": "21:00",
+        "time_end": "22:00"
     },
     {
         "name": "Kayu",
@@ -524,8 +524,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "12:00 ",
-        "time_end": " 14:00"
+        "time_start": "12:00",
+        "time_end": "14:00"
     },
     {
         "name": "Meera",
@@ -536,8 +536,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "14:00 ",
-        "time_end": " 15:30"
+        "time_start": "14:00",
+        "time_end": "15:30"
     },
     {
         "name": "Samm & Ajna",
@@ -548,8 +548,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "15:30 ",
-        "time_end": " 17:00"
+        "time_start": "15:30",
+        "time_end": "17:00"
     },
     {
         "name": "DBN Gogo",
@@ -560,8 +560,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "17:00 ",
-        "time_end": " 18:30"
+        "time_start": "17:00",
+        "time_end": "18:30"
     },
     {
         "name": "Alan Dixon",
@@ -572,8 +572,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "18:30 ",
-        "time_end": " 20:00"
+        "time_start": "18:30",
+        "time_end": "20:00"
     },
     {
         "name": "WhoMadeWho",
@@ -584,8 +584,8 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "Commercial Dance",
-        "time_start": "20:00 ",
-        "time_end": " 21:30"
+        "time_start": "20:00",
+        "time_end": "21:30"
     },
     {
         "name": "Keinemusik (&ME, Adam Port, Rampa)",
@@ -596,7 +596,7 @@
         "weekday": "Friday",
         "weekend": "Weekend 1",
         "genre": "",
-        "time_start": "21:30 ",
-        "time_end": " 00:30"
+        "time_start": "21:30",
+        "time_end": "00:30"
     }
 ]
