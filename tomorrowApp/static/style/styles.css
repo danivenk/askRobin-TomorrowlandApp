@@ -1,6 +1,6 @@
 /* predefining some mulitple used colors */
 /* alignment inheritance */
-h1, footer, .error {
+h1, footer {
     text-align: center;
 }
 
@@ -32,27 +32,30 @@ nav {
     background-color: #e06;
 }
 
-.nav-link:hover {
-    color: #fff !important;
-}
-
 /* content style */
 .container {
     flex: 1;
+}
+
+.container > .row {
+    width: 100%;
 }
 
 h1 {
     margin: 3% 0;
 }
 
-h4 {
-    font-weight: bold;
-    font-size: 120%;
-}
-
 .row {
     margin-top: 2%;
     margin-bottom: 2%;
+}
+
+.row input {
+    width: 90%;
+}
+
+form {
+    padding: 0!important;
 }
 
 .chat {
@@ -66,10 +69,16 @@ h4 {
 .row .btn-primary {
     background-color: #e06 !important;
     float: right !important;
+    border: none;
+    margin: 2px;
 }
 
 .row .btn-primary:hover {
     background-color: #d5005b !important;
+}
+
+.row .col-sm-8 .btn-primary {
+    width: 9%;
 }
 
 /* footer */
@@ -77,22 +86,4 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-}
-
-/* error page */
-.error img {
-    float: right;
-    position: relative;
-    height: 80%;
-}
-
-/* mobile style changes */
-@media screen and (max-device-width: 768px) {
-    #container {
-        margin: 0;
-   }
-    .nav-link {
-        padding-top: 5%;
-        padding-bottom: 5%;
-   }
 }

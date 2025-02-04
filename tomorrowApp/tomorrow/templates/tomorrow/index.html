@@ -4,20 +4,29 @@
 
 <!-- create a row with the content -->
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-12">
+        <h1>Check info for Tomorrowland 2024!</h1>
         <div class="row">
             <div class="col-sm-12 chat">
                 {% for message in messages %}
-                    <p><b>{{ message.role }}: </b>{{ message.content }}</p>
+                    <div>
+                        <div><b>{{ message.role }}: </b><br></div>
+                        <div>{{ message.content | safe }}</div>
+                    </div>
                 {% endfor %}
             </div>
         </div>
-        <form method="POST" class="row">
-            {% csrf_token %}
-            <input type="text" name="query" autofocus>
-            <button type="submit">SEND</button>
-            <button type="submit" name="new" value="1">NEW CHAT</button>
-        </form>
+        <div class="row">
+            <form method="POST" class="col-sm-8">
+                {% csrf_token %}
+                <input type="text" name="query" autofocus>
+                <button type="submit" class="btn-primary">SEND</button>
+            </form>
+            <form method="POST">
+                {% csrf_token %}
+                <button type="submit" name="new" value="1" class="btn-primary">NEW CHAT</button>
+            </form>
+        </div>
     </div>
 </div>
 {% endblock %}

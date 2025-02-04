@@ -2,11 +2,11 @@
 
 {% load static %}
 
-<html lang="ja-jp">
+<html lang="en-us">
     <head>
 
         <!-- declaration of the page title, charset -->
-        <!-- <title>{{ page.title }}</title> -->
+        <title>Tomorrowland Chat</title>
         <meta charset="UTF-8">
 
         <!-- bootstrap inclusion -->
@@ -17,10 +17,6 @@
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
             crossorigin="anonymous">
 
-        <!-- icon inclusion -->
-        <!-- <link rel="icon" href="/assets/img/icon.png"> -->
-
-        <!-- style and js inclusion -->
         <link type="text/css" href="{% static 'style/styles.css' %}" rel="stylesheet">
     </head>
 
@@ -39,16 +35,6 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
-
-                        <!-- create a link for each page (non-post) on the site -->
-                        {% for page in mainsite.urls %}
-                            page.name
-                            <!-- {% if page.title != nil %}
-                                <a class="nav-item nav-link" href="{{ page.url }}">{{ page.title }}</a>
-                            {% endif %} -->
-                        {% endfor %}
-                    </div>
                 </div>
             </nav>
 
